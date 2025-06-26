@@ -54,7 +54,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":60,
          "x":0,
          "y":0
@@ -159,7 +159,7 @@
                  "name":"Chao e Parede",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":60,
                  "x":0,
                  "y":0
@@ -177,7 +177,7 @@
          "name":"walls",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -230,7 +230,7 @@
                  "name":"Mobilha3",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":60,
                  "x":0,
                  "y":0
@@ -281,7 +281,7 @@
                  "name":"Mobilha2",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":60,
                  "x":0,
                  "y":0
@@ -332,7 +332,7 @@
                  "name":"Mobilha1",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":60,
                  "x":0,
                  "y":0
