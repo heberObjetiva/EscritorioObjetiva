@@ -751,7 +751,7 @@
                         {
                          "name":"meetingName",
                          "type":"string",
-                         "value":"Reuniao Dev"
+                         "value":"ReuniaoDev"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -771,6 +771,16 @@
                          "value":true
                         }, 
                         {
+                         "name":"jitsiClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": true }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -783,7 +793,7 @@
                         {
                          "name":"zoom_margin",
                          "type":"float",
-                         "value":0
+                         "value":0.5
                         }],
                  "rotation":0,
                  "type":"area",
