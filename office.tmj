@@ -778,12 +778,12 @@
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
-                         "value":"oneaction"
+                         "value":"onaction"
                         }, 
                         {
                          "name":"zoom_margin",
                          "type":"float",
-                         "value":1
+                         "value":0
                         }],
                  "rotation":0,
                  "type":"area",
