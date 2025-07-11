@@ -771,14 +771,14 @@
                          "value":true
                         }, 
                         {
-                         "name":"jitsiConfig",
-                         "type":"string",
-                         "value":"{ \"startWithAudioMuted\": true }"
-                        }, 
-                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"ObjetivaSolucao132465"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
                         }, 
                         {
                          "name":"zoom_margin",
