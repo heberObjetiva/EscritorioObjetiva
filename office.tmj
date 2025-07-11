@@ -762,22 +762,12 @@
                 {
                  "height":295.333333333333,
                  "id":56,
-                 "name":"Reuniao 1",
+                 "name":"meeting-room",
                  "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"my-meeting-room"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":0.5
                         }],
                  "rotation":0,
                  "type":"area",
